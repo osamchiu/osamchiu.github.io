@@ -236,8 +236,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/courses/</guid>
-      <description>&lt;h1 id=&#34;2025-spring-113-2&#34;&gt;2025 spring (113-2)&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;2025-fall-114-1&#34;&gt;2025 Fall (114-1)&lt;/h1&gt;
 &lt;h4 id=&#34;undergraduate-大學部&#34;&gt;undergraduate 大學部&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Machine Learning 機器學習導論&lt;br&gt;&lt;font color=&#34;#96999A&#34;&gt;&lt;em&gt;English as a Medium of Instruction(EMI)&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2025-spring-113-2&#34;&gt;2025 spring (113-2)&lt;/h1&gt;
+&lt;h4 id=&#34;undergraduate-大學部-1&#34;&gt;undergraduate 大學部&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Linear algebra 線性代數&lt;/li&gt;
 &lt;/ul&gt;
@@ -245,8 +250,13 @@
 &lt;ul&gt;
 &lt;li&gt;Artificial intelligence 人工智慧&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <content>&lt;h1 id=&#34;2025-spring-113-2&#34;&gt;2025 spring (113-2)&lt;/h1&gt;
+      <content>&lt;h1 id=&#34;2025-fall-114-1&#34;&gt;2025 Fall (114-1)&lt;/h1&gt;
 &lt;h4 id=&#34;undergraduate-大學部&#34;&gt;undergraduate 大學部&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Machine Learning 機器學習導論&lt;br&gt;&lt;font color=&#34;#96999A&#34;&gt;&lt;em&gt;English as a Medium of Instruction(EMI)&lt;/em&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2025-spring-113-2&#34;&gt;2025 spring (113-2)&lt;/h1&gt;
+&lt;h4 id=&#34;undergraduate-大學部-1&#34;&gt;undergraduate 大學部&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;Linear algebra 線性代數&lt;/li&gt;
 &lt;/ul&gt;
@@ -345,7 +355,7 @@
       &lt;tr&gt;
           &lt;td&gt;用於自我監督健康管理的互動式App &lt;br&gt; &lt;em&gt;Interactive Mobile App for Self-Supervised Health Management&lt;/em&gt;&lt;/td&gt;
           &lt;td&gt;台大醫院雲林分院 NTU Hospital&lt;/td&gt;
-          &lt;td&gt;2021/01–2021/12&lt;/td&gt;
+          &lt;td&gt;2021/01~2021/12&lt;/td&gt;
           &lt;td&gt;技術負責人 Technical Lead&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
@@ -463,7 +473,7 @@
       &lt;tr&gt;
           &lt;td&gt;用於自我監督健康管理的互動式App &lt;br&gt; &lt;em&gt;Interactive Mobile App for Self-Supervised Health Management&lt;/em&gt;&lt;/td&gt;
           &lt;td&gt;台大醫院雲林分院 NTU Hospital&lt;/td&gt;
-          &lt;td&gt;2021/01–2021/12&lt;/td&gt;
+          &lt;td&gt;2021/01~2021/12&lt;/td&gt;
           &lt;td&gt;技術負責人 Technical Lead&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
