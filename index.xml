@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sheng-Min Chiu</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Sheng-Min Chiu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jun 2025 17:06:03 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jun 2025 17:06:03 +0800</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Publications</title>
-      <link>/publications/</link>
+      <link>//localhost:1313/publications/</link>
       <pubDate>Tue, 10 Jun 2025 23:34:03 +0800</pubDate>
       
-      <guid>/publications/</guid>
+      <guid>//localhost:1313/publications/</guid>
       <description>&lt;h4 id=&#34;international-journal&#34;&gt;International Journal&lt;/h4&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Sheng-Min Chiu&lt;/strong&gt;, Yow-Shin Liou, Yi-Chung Chen, Chiang Lee, Rong-Kang Shang, Tzu-Yin Chang, and Roger Zimmermann, “Universal Transfer Framework for Urban Spatio-Temporal Knowledge Based on Radial Basis Function,” &lt;em&gt;IEEE Transactions on Artificial Intelligence&lt;/em&gt;, vol. 5, no. 9, pp. 4458-4469, 2024.&lt;/li&gt;
@@ -106,10 +106,10 @@
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Tue, 30 Jul 2024 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>//localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;hello-in-a-new-age&#34;&gt;Hello in a new age&lt;/h1&gt;
 &lt;p&gt;You can call me Mirus and I forked the original Terminal theme for Hugo, because Radek, the original creator of the theme stop the maintenance and archived the repo.&lt;/p&gt;
 &lt;p&gt;So I already pushed a few improvements that I did for my humble blog and I&amp;rsquo;m going to add some more features in the future, also any contribution is welcome&lt;/p&gt;
@@ -146,19 +146,19 @@
     
     <item>
       <title>Showcase</title>
-      <link>/showcase/</link>
+      <link>//localhost:1313/showcase/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/showcase/</guid>
+      <guid>//localhost:1313/showcase/</guid>
       <description>&lt;h1 id=&#34;features-in-updates&#34;&gt;Features in updates&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/posts/css-vars/&#34;&gt;native CSS variables showcase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/css-vars/&#34;&gt;native CSS variables showcase&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;features-in-updates&#34;&gt;Features in updates&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/posts/css-vars/&#34;&gt;native CSS variables showcase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;//localhost:1313/posts/css-vars/&#34;&gt;native CSS variables showcase&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
@@ -232,10 +232,10 @@
     
     <item>
       <title>Courses</title>
-      <link>/courses/</link>
+      <link>//localhost:1313/courses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/courses/</guid>
+      <guid>//localhost:1313/courses/</guid>
       <description>&lt;h1 id=&#34;2025-fall-114-1&#34;&gt;2025 Fall (114-1)&lt;/h1&gt;
 &lt;h4 id=&#34;undergraduate-大學部&#34;&gt;undergraduate 大學部&lt;/h4&gt;
 &lt;ul&gt;
@@ -269,10 +269,10 @@
     
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>//localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
+      <guid>//localhost:1313/projects/</guid>
       <description>&lt;h2 id=&#34;-research-projects--研究計畫&#34;&gt;📝 Research Projects | 研究計畫&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -514,10 +514,10 @@
     
     <item>
       <title>Research</title>
-      <link>/research/</link>
+      <link>//localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/</guid>
+      <guid>//localhost:1313/research/</guid>
       <description>&lt;h2 id=&#34;-research-directions&#34;&gt;✨ Research Directions&lt;/h2&gt;
 &lt;h4 id=&#34;1-customized-neural-network-design&#34;&gt;1. Customized Neural Network Design&lt;/h4&gt;
 &lt;p&gt;Research in this area centers on the design and development of customized neural network architectures tailored to a wide range of domain-specific applications. The focus is on building models that are not only accurate and robust but also lightweight, interpretable, and efficient—enabling practical deployment in real-world, resource-constrained environments.&lt;br&gt;
@@ -540,7 +540,7 @@
 &lt;font color=&#34;#96999A&#34;&gt;&lt;strong&gt;Suitable roles:&lt;/strong&gt; Algorithm Engineer, Data Scientist, Big Data Engineer&lt;/font&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h4 id=&#34;4-software-systems-development&#34;&gt;4. Software Systems Development&lt;/h4&gt;
-&lt;p&gt;We build robust software systems that integrate our models and algorithms to support practical applications across a variety of domains. These systems provide interactive tools and automated frameworks for monitoring, prediction, and decision support. Many are developed in collaboration with domain experts and industry partners—such as National Taiwan University Hospital and Vision Wide Tech—to ensure real-world relevance and validated impact.&lt;br&gt;
+&lt;p&gt;We build robust software systems that integrate our models and algorithms to support practical applications across a variety of domains. These systems provide interactive tools and automated frameworks for monitoring, prediction, and decision support. Many of these systems are developed in collaboration with domain experts and industry partners, including National Taiwan University Hospital and Vision Wide Tech, to ensure real-world relevance and validated impact.
 &lt;font color=&#34;#96999A&#34;&gt;&lt;strong&gt;Suitable roles:&lt;/strong&gt; Software Engineer, System Integration Engineer, Full Stack Developer&lt;/font&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-application-domains&#34;&gt;🌐 Application Domains&lt;/h2&gt;
@@ -556,11 +556,20 @@
     
     <item>
       <title>Services</title>
-      <link>/services/</link>
+      <link>//localhost:1313/services/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/services/</guid>
+      <guid>//localhost:1313/services/</guid>
       <description>&lt;h2 id=&#34;-academic-services&#34;&gt;🏛️ Academic Services&lt;/h2&gt;
+&lt;h3 id=&#34;reviewer&#34;&gt;Reviewer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://link.springer.com/journal/11227&#34;&gt;The Journal of Supercomputing&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;2025 ~ now&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-program-committee-member&#34;&gt;Technical Program Committee Member&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025 7th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;2025 International Conference on Applied System Innovation (ICASI 2025)&lt;/strong&gt;&lt;br&gt;
@@ -569,15 +578,24 @@
 &lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
-Dept. of Mathematics, National Chung Cheng University / 國立中正大學 數學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Dec. 2024)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
+Dept. of Computer Science and Engineering, National Chung Hsing University / 國立中興大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Dec. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
-Dept. of Computer Science and Information Engineering, National Chung Cheng University / 國立中正大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sept. 2024)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
+Dept. of Computer Science and Information Engineering, Providence University / 靜宜大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
       <content>&lt;h2 id=&#34;-academic-services&#34;&gt;🏛️ Academic Services&lt;/h2&gt;
+&lt;h3 id=&#34;reviewer&#34;&gt;Reviewer&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://link.springer.com/journal/11227&#34;&gt;The Journal of Supercomputing&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;2025 ~ now&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technical-program-committee-member&#34;&gt;Technical Program Committee Member&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;2025 7th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/br&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h3 id=&#34;session-chair&#34;&gt;Session Chair&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;2025 International Conference on Applied System Innovation (ICASI 2025)&lt;/strong&gt;&lt;br&gt;
@@ -585,6 +603,16 @@ Dept. of Computer Science and Information Engineering, National Chung Cheng Univ
 &lt;/ul&gt;
 &lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
 &lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
+Dept. of Computer Science and Engineering, National Chung Hsing University / 國立中興大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Dec. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
+Dept. of Computer Science and Information Engineering, Providence University / 靜宜大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;A Study on Feature Selection and Computational Cost Reduction Based on Novel Explainable Neurons&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;基於新型可解釋神經元進行特徵選擇並降低模型成本之研究&lt;/em&gt;&lt;br&gt;
