@@ -624,11 +624,9 @@
       
       <guid>/services/</guid>
       <description>&lt;h2 id=&#34;-academic-services&#34;&gt;🏛️ Academic Services&lt;/h2&gt;
-&lt;h3 id=&#34;reviewer&#34;&gt;Reviewer&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://link.springer.com/journal/11227&#34;&gt;The Journal of Supercomputing&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;2025 ~ now&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- ### Reviewer
+- **[The Journal of Supercomputing](https://link.springer.com/journal/11227)**  
+  *2025 \~ now* --&gt;
 &lt;h3 id=&#34;technical-program-committee-member&#34;&gt;Technical Program Committee Member&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;2025 7th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/br&gt;&lt;/li&gt;
@@ -640,21 +638,14 @@
 &lt;/ul&gt;
 &lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
-Dept. of Computer Science and Engineering, National Chung Hsing University / 國立中興大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Dec. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
 Dept. of Computer Science and Information Engineering, Providence University / 靜宜大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Sep. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;</description>
       <content>&lt;h2 id=&#34;-academic-services&#34;&gt;🏛️ Academic Services&lt;/h2&gt;
-&lt;h3 id=&#34;reviewer&#34;&gt;Reviewer&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://link.springer.com/journal/11227&#34;&gt;The Journal of Supercomputing&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;2025 ~ now&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- ### Reviewer
+- **[The Journal of Supercomputing](https://link.springer.com/journal/11227)**  
+  *2025 \~ now* --&gt;
 &lt;h3 id=&#34;technical-program-committee-member&#34;&gt;Technical Program Committee Member&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;2025 7th International Conference on Software Engineering and Development (&lt;a href=&#34;https://icsed.org/index.html&#34;&gt;ICSED 2025&lt;/a&gt;)&lt;/strong&gt;&lt;/br&gt;&lt;/li&gt;
@@ -666,11 +657,6 @@ Dept. of Computer Science and Information Engineering, Providence University / �
 &lt;/ul&gt;
 &lt;h3 id=&#34;invited-talks&#34;&gt;Invited Talks&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
-Dept. of Computer Science and Engineering, National Chung Hsing University / 國立中興大學 資訊工程學系 &lt;span style=&#34;color:#96999A;&#34;&gt;&lt;em&gt;(Dec. 2025)&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Explainable AI : AI-Driven Feature Selection for Lower Computational Cost&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;Explainable AI - 由AI篩選特徵並降低運算成本&lt;/em&gt;&lt;br&gt;
