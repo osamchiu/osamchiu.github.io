@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sheng-Min Chiu</title>
+    <title>Sheng-Min Chiu on AIIS Lab</title>
     <link>/</link>
-    <description>Recent content on Sheng-Min Chiu</description>
+    <description>Recent content in Sheng-Min Chiu on AIIS Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 10 Jun 2025 17:06:03 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -264,6 +264,69 @@
 &lt;ul&gt;
 &lt;li&gt;Artificial intelligence 人工智慧&lt;/li&gt;
 &lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Members</title>
+      <link>/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/members/</guid>
+      <description>&lt;h3 id=&#34;ms-students&#34;&gt;MS Students&lt;/h3&gt;
+&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;蔡易志 (Ian Tsai)&lt;/li&gt;
+&lt;li&gt;詹宇倫&lt;/li&gt;
+&lt;li&gt;原﨑厚儒&lt;/li&gt;
+&lt;li&gt;陳偉華 (William Chen)&lt;/li&gt;
+&lt;li&gt;吳吉恩 (David Wu)&lt;/li&gt;
+&lt;li&gt;張祐熏&lt;/li&gt;
+&lt;li&gt;Penta Paramayoga&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bachelor-students-nsysu&#34;&gt;Bachelor Students (NSYSU)&lt;/h3&gt;
+&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;周霖 (Chou Lin), 李瑞紘 (Ruei Lee)&lt;/li&gt;
+&lt;li&gt;陳圖億, 盧品言, 陳義竑&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bachelor-students-nuu&#34;&gt;Bachelor Students (NUU)&lt;/h3&gt;
+&lt;p&gt;2024 (seminar 113)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;涂正崑, 王任傑, 朱胡城瑋, 黃博碩&lt;/li&gt;
+&lt;li&gt;陳岳維, 陳昱安, 黃尉家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;!-- ### Alumni --&gt;</description>
+      <content>&lt;h3 id=&#34;ms-students&#34;&gt;MS Students&lt;/h3&gt;
+&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;蔡易志 (Ian Tsai)&lt;/li&gt;
+&lt;li&gt;詹宇倫&lt;/li&gt;
+&lt;li&gt;原﨑厚儒&lt;/li&gt;
+&lt;li&gt;陳偉華 (William Chen)&lt;/li&gt;
+&lt;li&gt;吳吉恩 (David Wu)&lt;/li&gt;
+&lt;li&gt;張祐熏&lt;/li&gt;
+&lt;li&gt;Penta Paramayoga&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bachelor-students-nsysu&#34;&gt;Bachelor Students (NSYSU)&lt;/h3&gt;
+&lt;p&gt;2025 (seminar 114)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;周霖 (Chou Lin), 李瑞紘 (Ruei Lee)&lt;/li&gt;
+&lt;li&gt;陳圖億, 盧品言, 陳義竑&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;bachelor-students-nuu&#34;&gt;Bachelor Students (NUU)&lt;/h3&gt;
+&lt;p&gt;2024 (seminar 113)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;涂正崑, 王任傑, 朱胡城瑋, 黃博碩&lt;/li&gt;
+&lt;li&gt;陳岳維, 陳昱安, 黃尉家&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;!-- ### Alumni --&gt;
 </content>
     </item>
     
